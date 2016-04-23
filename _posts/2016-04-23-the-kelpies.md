@@ -4,15 +4,11 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: The Kelpies
-datePublished: '2016-04-23T16:20:31.534Z'
-dateModified: '2016-04-23T16:17:37.383Z'
+description: ''
+datePublished: '2016-04-23T18:13:39.361Z'
+dateModified: '2016-04-23T18:09:39.998Z'
 title: ''
-author:
-  - name: Alan Cameron
-    url: ''
-sourcePath: _posts/2016-04-23-the-kelpies.md
-published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -20,16 +16,16 @@ publisher:
   url: null
   favicon: null
 starred: false
+sourcePath: _posts/2016-04-23-the-kelpies.md
+published: true
 url: the-kelpies/index.html
 _type: Article
 
 ---
-**The Kelpies**
+THE KELPIES
 
-The Kelpies, Sculptures by Andy Scott
-
-This is my homage to Andy Scott's wonderful sculptures "The Kelpies" at the Helix park, near Falkirk.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3404d416de27b7b291309c9383f2e316a05fe34b.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2251ff0fd320406d919e7c467246e72a22a6590f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e206818a-d1e9-434b-ab3e-94a1bc3cc8d4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93c19bb4-d9e3-4bf2-90e8-2315c99cddcc.jpg)
+This is my homage to Andy Scott's wonderful sculptures "The Kelpies" at the Helix park, near Falkirk.  
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61d301fc-2239-4b00-9098-700cb0418b69.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf28cf73-fe3b-4a09-8156-b0ff1c8d2645.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5c9a6d9-211c-4e36-9d15-2908f15486b3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68832b1d-80ff-412f-b073-e388d34bf010.jpg)
