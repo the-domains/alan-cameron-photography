@@ -1,6 +1,6 @@
 name: Alan Cameron Photography
 favicon: null
-layout_spectrum: 0.49765
+layout_spectrum: 0.99945
 typography_spectrum: 0.4937
 title: Alan Cameron Photography
 cta:
@@ -24,6 +24,6 @@ color:
     - '#427397'
   brandStrength: 0
   lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
