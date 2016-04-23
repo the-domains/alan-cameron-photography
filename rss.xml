@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Alan Cameron Photography]]></title>
         <description><![CDATA[Alan Cameron Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alan-cameron-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 15:59:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 16:21:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alan-cameron-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[THE KELPIES]]></title>
-            <description><![CDATA[<p>The Kelpies</p>]]></description>
-            <link>undefinedthe-kelpies/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3404d416de27b7b291309c9383f2e316a05fe34b.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/alan-cameron-photography/the-kelpies/index.html</link>
             <guid isPermaLink="false">f17ca3ab-d5a0-45c4-b172-d37cfb8683f7</guid>
-            <pubDate>Sat, 23 Apr 2016 15:59:31 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2016 16:20:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
